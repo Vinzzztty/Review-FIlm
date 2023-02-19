@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Aquaman",
+    "subtitle": "Reviw by Alin",
+    "score": "8.4/10",
+    "photo": "https://cdn.vox-cdn.com/thumbor/jU3i0gADrCHhGnAoQEYaXIi7ItE=/0x0:2040x1150/920x613/filters:focal(857x412:1183x738):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62939100/aquaman_hero_image_0.0.jpg",
+    "body": "Aquaman adalah film adaptasi dari DC comics, yang sebelumnya muncul di Justice League. Film ini adalah film fantasi bergenre laga/petualangan, yang mengisahkan seorang pahlawan/superhero yang bisa hidup di darat dan di air. Saat pertama menonton film saya terpukau dengan visualnya yang menampilkan view menarik, seperti kita dibawa melihat tampatnya secara langsung. Menurut saya alur ceritanya unik dan karakter yang disajikan menarik. Mungkin memang sedikit kurang masuk akal, tetapi point yang ingin disampaikan tersampaikan dengan baik. Bahkan saking menghayatinya, saya sampai menangis karena beberapa adegan yang cukup mengharukan. Namun, kekurangan film ini adalah terlalu banyaknya flashback yang membuat kita cepat bosan saat  menontonnya. Secara keseluruhan, bagi saya yang menyukai film bergenre fantasi, film ini sangat menarik untuk ditonton dan banyak pesan serta pelajaran yang bisa diambil didalamnya."
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "subtitle": "Review by Hikmal",
+    "score": "9.8/10",
+    "photo": "https://akcdn.detik.net.id/community/media/visual/2021/09/22/the-shawshank-redemption-1_169.png?w=620",
+    "body": "Menurut gw ini keren banget sih alur ceritanya. cinematography nya jg keren banget kerasa banget vibes nya. terus acting jg bagus banget secara morgan freeman yekan."
+  },
+  {
+    "id": 3,
+    "title": "Teman Tapi Menikah",
+    "subtitle": "Review by DhamarPb",
+    "score": "9/10",
+    "photo": "https://media.matamata.com/thumbs/2021/07/03/25768-sinopsis-teman-tapi-menikah-instagramatbioskop/745x489-img-25768-sinopsis-teman-tapi-menikah-instagramatbioskop.jpg",
+    "body": "Ceritanya dapet banget , penghayatan dari pemain oke , terus related sama anak muda , jadi bisa merasakan alur ceritanya , funfact true story' diriku sendiri"
+  },
+  {
+    "id": 4,
+    "title": "Yowis Ben",
+    "subtitle": "Review by DhamarPb",
+    "score": "8/10",
+    "photo": "https://asset.kompas.com/crops/lru2HrSqqwZik_kGYnfneK_Pn3g=/0x52:1080x772/750x500/data/photo/2020/08/22/5f409c58175f3.jpg",
+    "body": "Alur dan Pembawaan nya enak tapi agak tergesa gesa, Ceritanya juga bagus , pembawaan karakter anak muda penggila musik sangat dapet , dan cocok lah kalau ditonton sama keluarga."
+  },
+  {
+    "id": 5,
+    "title": "Nanti Kita Cerita Tentang Hari Ini",
+    "subtitle": "Review by DhamarPb",
+    "score": "10/10",
+    "photo": "https://images.bisnis.com/posts/2020/01/08/1188370/mv5bnze1yza4mwetndc2zs00odjhlwjmowytnjyynza2zda2ndm5xkeyxkfqcgdeqxvynzeznju1ndg._v1_sy1000_sx1000_al_.jpg",
+    "body": "No debat nek ini , Karakter , cerita, alur , setting nya dapet banget , kita benar benar di ajak untuk merasakan bagaimana rasanya berada di keluarga yang banyak terjadi masalah tapi harus bisa bersatu , mantap banget ini difilm , related banget sama semua orang, dari bapak , ibu , dan anak."
+  },
+  {
+    "id": 6,
+    "title": "Avengers: Endgame (2019)",
+    "subtitle": "Review by Alin",
+    "score": "9.4/10",
+    "photo": "https://lumiere-a.akamaihd.net/v1/images/p_incredible_hero_avengers_mobile_5cab8e21.jpeg?region=0,0,640,480",
+    "body": "Sebagai salah satu penggemar sekuel marvel, saya sangat excited saat Marvel Cinematic Universal (MCU) mengumumkan akan merilis film terbarunya yaitu Avengers: Endgame. Setelah menonton film ini saya sangat terkesan dengan jalan cerita yang sangat menarik yang merupakan kelanjutan dari sekuel sebelumya yaitu Infinity War. Menonton film ini membuat saya merasa senang, terkejut, bangga, sekaligus menangis karena merasakan emosional yang mendalam. Meski durasi film yang cukup lama sekitar 3 jam, namun saya tidak merasa bosan dengan alurnya, terlebih dengan efek visual yang canggih. Namun, dengan berbagai kelebihan yang disajikan ada satu hal yang menurut saya kurang, yaitu ending dari cerita yang terkesan menggantung. Hal itu membuat saya menjadi penasaran  dan bertanya-tanya, apakah yang terjadi selanjutnya? Dan juga dengan banyaknya alur cerita membuat film ini sedikit berantakan. Namun dari keseluruhan, terutama bagi penggemar karakter Marvel wajib untuk menonton film yang satu ini."
+  },
+  {
+    "id": 7,
+    "title": "Mulan",
+    "subtitle": "Review by Alin",
+    "score": "6.5/10",
+    "photo": "https://www.harjasaputra.com/review/media/posts/10/live-action-mulan-disney2.jpg",
+    "body": "Mulan adalah film live action terbitan Disney yang diadaptasi dari film animasinya dengan judul yang sama, yaitu Mulan. Saya menonton film ini karena suka dengan film-film terbitan Disney dan penasaran bagaimana Mulan versi live action. Setelah menonton film ini saya cukup terkesan dengan penampilan aktor yang memukau dan setting tempat yang indah. Namun, jauh dari ekspektasi saya ternyata jalan cerita film ini tidak sama persis dengan versi animasinya. Beberapa alur dibuat berbeda, dan ada pula karakter yang tidak ada dalam versi live action. Walaupun begitu film ini patut untuk ditonton."
+  },
+  {
+    "id": 8,
+    "title": "Raya and The Last Dragon",
+    "subtitle": "Review by Alin",
+    "score": "8.7/10",
+    "photo": "https://awsimages.detik.net.id/community/media/visual/2021/03/29/5-makanan-asia-tenggara-ini-muncul-di-film-raya-and-the-last-dragon-2.jpeg?w=700&q=90",
+    "body": "Raya and The Last Dragon adalah film yang saya tunggu-tunggu untuk rilis. Film terbitan Disney ini menghadirkan suasana Asia Tenggara termasuk Indonesia, mulai dari karakter tokoh sampai makanannya. Menurut saya film ini adalah salah satu film animasi yang sangat menarik. Mengisahkan petualangan Raya mencari seekor naga untuk menyelamatkan dunia, film ini dikemas dengan grafis yang mengagumkan. Setiap tokoh, tempat, karakter mempunyai keunikan tersendiri yang membuat saya terkesan. Backsound dan soundtracknya juga membuat saya teringat ingat. Selain itu film ini menyiratkan pesan tentang persatuan dan kepercayaan. Jujur saya terharu saat menontonnya dengan intrik yang disajikan. Namun kekurangannya, pengembangan alur masih terlalu biasa seperti halnya beberapa film tentang putri dan kerajaan. Dari keseluruhan, film ini menjadi salah satu favorit saya dan sangat recomended untuk ditonton."
+  },
+  {
+    "id": 9,
+    "title": "Maripossa",
+    "subtitle": "Review by Alin",
+    "score": "8/10",
+    "photo": "https://cdn0-production-images-kly.akamaized.net/-Ol4qjRwAD4ztCws_E80aJwy9Yg=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2873858/original/052696000_1565068682-zara1.jpg",
+    "body": "Film ini diangkat dari salah satu novel terlaris dengan judul yang sama yaitu Mariposa. Film Indonesia ini bercerita tentang kisah cinta remaja pada kehidupan nyata yang diwarnai  banyak intrik. Pemeran tokoh mempunyai chemistry yang kuat sehingga dapat membawa suasana di film ini. Banyak adegan romansa yang hampir mirip dengan adegan di drama korea. Sayangnya, alur cerita film tidak sama dengan novelnya, banyak adegan yang tidak dimasukkan ke dalam cerita. Bahkan terkesan biasa saja seperti kebanyakan film romansa. Saya cukup terhibur dengan film yang satu ini. Bagi yang ingin menonton film remaja yang kisahnya ringan, film ini bisa jadi rekomendasi."
+  },
+  {
+    "id": 10,
+    "title": "Interstellar",
+    "subtitle": "Review by Hikmal",
+    "score": "9.8/10",
+    "photo": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492194038/articles/2014/11/11/neil-degrasse-tyson-breaks-down-interstellar-black-holes-time-dilations-and-massive-waves/141111-stern-interstellar-tease_riocnl",
+    "body": "Filmnya menurut gua keren banget ya karena disitu menggambarkan perjalanan manusia bisa sampe ke luar angkasa dan gimana rasanya dikhianati oleh orang yang ada di dekat kita, dan di film ini sangat membuat kita terbawa suasana ya dengan berada di planet lain kita berasa menjadi  astronot dari NASA."
+  },
+  {
+    "id": 11,
+    "title": "World War Z",
+    "subtitle": "Review by Hikmal",
+    "score": "9.5/10",
+    "photo": "https://asset.kompas.com/crops/R4-06t6e3fxPh91mxcmQJZCI_og=/0x376:675x826/750x500/data/photo/2020/06/04/5ed88ae0ec1b0.jpg",
+    "body": "Film zombie2 memang sudah banyak tapi menurut gua ni film epic banget sih bener2 mutasinya sampe menyebar ke seluruh dunia dan disitu juga dari awal sampe akhirnya gimana zombie bisa ada dan gimana solusinya pun dijelasin gitu jadi lengkap banget deh. dan juga untuk bang brat pitt lu orang asik banget actingnya bang."
+  },
+  {
+    "id": 12,
+    "title": "Miracle in Cell no 07",
+    "subtitle": "Review by Shinta",
+    "score": "8.5/10",
+    "photo": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/simak-sinopsis-film-miracle-in-cell-no-7-korea-yang-diangkat-dari-kisah-nyata-dalam-artikel-ini.jpg",
+    "body": "Drama/film dari korea ini tuh bener-bener sad bangettt dan ga pernah nyesel buat ditonton bisa dibilang recommended banget dan harus masuk list film sih wkwk apalagi buat orang yg suka genre film yg bisa nyentuh hati gtu. Nonton film/drama ini tuh bisa netesin air mata yaa karena tiap alurnya ada aja yg bikin mewek/sedih gtu. Jadii drama ini nyeritain tentang hubungan ayah sama anak yang erat banget, btw ayahnya ini emang kesulitan dalam berbicara atau bisa dibilang berkebutuhan khusus, single parents lagi yg cuma tinggal berdua sama anaknya. Di film ini jugaa ayahnya kena masalah gtu dan harus masuk penjara padahal itu cuma kesalah pahaman doang, yaa karena kan ayahnya kesulitan dalam berbicara nah mau jelasin ke polisinya jugaa susah gtu, kalo mau tau kenapa bisa di penjara yaa harus nonton filmnya dulu wkwk biar g penasaran. Film ini durasinya sekitar 2 jam lebih dan terlebih lagi kisah/cerita ini tuh based on true story atau diangkat dari kisah nyata loh. Pemain - pemainnya juga mendalami tiap karakter jadinyaa emang bagus banget. Intinya film/drama miracle in cell no 07 ini emang se worth it itu buat ditonton, btw kalo nonton ini kynya emang haruss nyiapin tisu deh wkwk"
+  },
+]
